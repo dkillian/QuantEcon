@@ -1,0 +1,88 @@
+---
+title: "Some simple economics of AGI (Catalini et al 2026)"
+subtitle: "Notes on selective concepts"
+author: "Dan Killian, Posit Assistant"
+date: 2-1-2026
+toc: true
+toc-depth: 3
+number-sections: false
+format:
+  html:
+    code-fold: true
+    page-layout: full
+execute: 
+  keep-md: true
+editor: visual
+reference-location: margin
+---
+
+```{r global_options, include=F, warning=F, message=F, echo=F, error=F}
+library(here)
+library(knitr)
+getwd()
+source("../prep (May 2025).r")
+```
+
+## Overview
+
+### Core Thesis
+
+### The Central Tension: Two Racing Cost Curves
+
+## The Economic Framework
+
+### Human Time Budget
+
+### Production Function
+
+### Effective Labor Composition
+
+### Cost to Automate vs. Cost to Verify
+
+### The Measurability Gap (∆m)
+
+### The Verifiable Share (s~v~)
+
+### The Four Task Regimes
+
+## Dynamic Engines of Transition
+
+### The Missing Junior Loop
+
+### The Codifier's Curse
+
+### Alignment Drift (τ)
+
+### The Trojan Horse Externality (X~A~)
+
+### Predator-Prey Capital Dynamics
+
+### Parasite vs. Successor: The Dynastic Welfare Function
+
+## Core Model
+
+### Static Measurability Geometry
+
+### Dynamics: Human Experience and Alignment
+
+### Governance Levers
+
+## Strategic Implications
+
+### Measurability-Biased Technical Change
+
+### The Precarious Nature of Human Comparative Advantage
+
+### Bifurcation of Value: Solvable, Verified, and Status Economies
+
+### Hollow Economy vs. Augmented Economy
+
+## Actionable Strategies
+
+### Individuals
+
+### Companies: The AI Sandwich
+
+### Investors
+
+### Policymakers
